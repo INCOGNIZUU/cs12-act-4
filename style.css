@@ -1,17 +1,32 @@
 body {
   font-size: 16px;
 }
-
-/* table td, */
-/* table tr, */
-/* table th, */
-table thead,
-table tfoot,
+table {
+  border-collapse: collapse;
+}
+th {
+  vertical-align: middle;
+}
+thead,
+tfoot {
+  background-color: #caccf5;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+}
+thead,
+tfoot,
 table {
   border: 2px solid black;
 }
+.SGI table {
+  border-bottom: none;
+}
+.thLow th {
+  text-transform: none;
+}
 .card table {
-  width: 1000px;
+  width: 1200px;
 }
 #age,
 #tUnit {
