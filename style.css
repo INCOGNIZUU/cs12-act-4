@@ -1,0 +1,20 @@
+body {
+  font-size: 16px;
+}
+
+/* table td, */
+/* table tr, */
+/* table th, */
+table thead,
+table tfoot,
+table {
+  border: 2px solid black;
+}
+.card table {
+  width: 1000px;
+}
+#age,
+#tUnit {
+  float: right;
+  margin-right: 50px;
+}

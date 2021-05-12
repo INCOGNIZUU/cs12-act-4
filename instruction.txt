@@ -1,0 +1,19 @@
+Hands-on activity 4
+==================
+create an HTML/CSS version of your current Semester Certificate of registration.
+create only partial part of the document, see the sample image sample-cor.png for reference
+
+
+please do not use html/css WYSIWYG applications or other html/css designer/generator applications. 
+it will be very obvious in the code, and you will not learn anything from using it.
+
+
+submission
+----------
+save your code in your google drive folder, make it public and send the link to this address:
+https://docs.google.com/forms/d/1U9yL8auuC5eIdoerRqh3qjgmFimvCGR-ymZQ90X0RaM
+
+
+
+
+
