@@ -8,15 +8,28 @@ body {
   font-size: 16px;
   font-family: "Roboto", sans-serif;
 }
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.mHead {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 35%;
+}
 img {
-  display: none;
+  margin-top: 30px;
   height: 150px;
 }
-/* .mHead {
-  display: flex;
-  justify-content: center;
-} */
+.xdisplay {
+  opacity: 0;
+}
 .heading {
+  flex: 1;
+  align-items: flex-start;
+  width: 100%;
   text-align: center;
   margin: 50px 0;
   line-height: 2em;
@@ -86,6 +99,7 @@ td {
 .mkBold {
   font-weight: 700;
   font-style: normal;
+  margin-left: 30px;
 }
 .fctSign {
   border-bottom: 1px solid black;
